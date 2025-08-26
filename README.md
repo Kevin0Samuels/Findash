@@ -22,6 +22,9 @@ A comprehensive dashboard to track SIPs, stock/crypto prices, and visualize inve
 
 ---
 
+## 🎯 Live Demo: https://findash-hmwahhqzaajhjzddy6s8qs.streamlit.app/
+
+---
 ## 🚀 Features
 
 - **Stock Tracking:** Real-time prices, 30-day history, key metrics
